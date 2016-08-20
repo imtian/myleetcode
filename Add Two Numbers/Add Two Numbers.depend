@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1446700580 source:/home/tian/LeetCode/Add Two Numbers/main.cpp
-	<iostream>
-	<stdlib.h>
-	<time.h>
-
